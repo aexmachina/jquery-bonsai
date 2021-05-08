@@ -1,0 +1,15 @@
+ol.bonsai {
+	margin-bottom: 1em;
+}
+.bonsai ol {
+	margin-bottom: 0;
+}
+ol.bonsai,
+ul.bonsai {
+	transition: 1s ease height;
+}
+.code em {
+	font-weight: bold;
+	font-style: normal;
+	color: #39c;
+}

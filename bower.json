@@ -1,0 +1,16 @@
+{
+  "name": "jquery-bonsai-gh-pages",
+  "version": "0.1.1",
+  "homepage": "https://github.com/aexmachina/jquery-bonsai",
+  "authors": [
+    "Simon Wade <simon.wade@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery-bonsai": "~1.1.0",
+    "jquery-json-list": "~0.1.2",
+    "jquery-qubit": "~2.0.2",
+    "google-code-prettify": "~1.0.3"
+  }
+}
